@@ -1,0 +1,152 @@
+{
+    "1": {
+        "links": "/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/",
+        "title": "How to Build a Rating Component with the React Compound Component Pattern",
+        "tag": "#React",
+        "time": "11 hours ago"
+    },
+    "2": {
+        "links": "/news/comparing-iac-tools-aws-cdk-cloudformation-terraform/",
+        "title": "How to Choose the Right IaC Tool \u2013 AWS CDK, CloudFormation, and Terraform Compared",
+        "tag": "#Infrastructure As Code",
+        "time": "12 hours ago"
+    },
+    "3": {
+        "links": "/news/add-auth-to-flutter-apps-with-supabase-auth-ui/",
+        "title": "How to Quickly Add Auth to your Flutter Apps with Supabase Auth UI",
+        "tag": "#Authentication",
+        "time": "14 hours ago"
+    },
+    "4": {
+        "links": "/news/automated-unit-testing-with-testgen-llm-and-cover-agent/",
+        "title": "How to Use AI to Automate Unit Testing with TestGen-LLM and Cover-Agent",
+        "tag": "#Artificial Intelligence",
+        "time": "19 hours ago"
+    },
+    "5": {
+        "links": "/news/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126/",
+        "title": "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]",
+        "tag": "#podcast",
+        "time": "4 days ago"
+    },
+    "6": {
+        "links": "/news/javascript-prototypal-inheritance/",
+        "title": "What is Prototypal Inheritance in JavaScript? Explained with Code Examples",
+        "tag": "#JavaScript",
+        "time": "4 days ago"
+    },
+    "7": {
+        "links": "/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/",
+        "title": "Learn the Basics of Go by Building a Full Stack Web App with React and Go",
+        "tag": "#Go Language",
+        "time": "5 days ago"
+    },
+    "8": {
+        "links": "/news/complete-c-programming-course-from-dr-chuck/",
+        "title": "Complete C Programming Course from Dr. Chuck",
+        "tag": "#C",
+        "time": "5 days ago"
+    },
+    "9": {
+        "links": "/news/react-context-api-explained-with-examples/",
+        "title": "React Context API Explained with Examples",
+        "tag": "#React",
+        "time": "5 days ago"
+    },
+    "10": {
+        "links": "/news/how-do-numerical-conversions-work/",
+        "title": "How Do Numerical Conversions Work in Computer Systems? Explained With Examples",
+        "tag": "#Computers",
+        "time": "6 days ago"
+    },
+    "11": {
+        "links": "/news/rust-tutorial-build-a-json-parser/",
+        "title": "Rust Tutorial \u2013 Learn Advanced Iterators & Pattern Matching by Building a JSON Parser",
+        "tag": "#Rust",
+        "time": "6 days ago"
+    },
+    "12": {
+        "links": "/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
+        "title": "Linear Algebra Crash Course - Mathematics for Machine Learning and Generative AI",
+        "tag": "#linear algebra",
+        "time": "7 days ago"
+    },
+    "13": {
+        "links": "/news/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk/",
+        "title": "How to Build an EKS Cluster Across AWS Local Zones using the AWS CDK",
+        "tag": "#AWS",
+        "time": "7 days ago"
+    },
+    "14": {
+        "links": "/news/linear-regression-vs-logistic-regression/",
+        "title": "Linear vs Logistic Regression:  How to Choose the Right Regression Model for Your Data",
+        "tag": "#Machine Learning",
+        "time": "7 days ago"
+    },
+    "15": {
+        "links": "/news/react-19-new-hooks-explained-with-examples/",
+        "title": "React 19 \u2013 New Hooks Explained with Examples",
+        "tag": "#React",
+        "time": "7 days ago"
+    },
+    "16": {
+        "links": "/news/a-guide-to-the-node-js-event-loop/",
+        "title": "A Guide to the Node.js Event Loop",
+        "tag": "#node.js",
+        "time": "7 days ago"
+    },
+    "17": {
+        "links": "/news/how-to-manipulate-strings-in-javascript/",
+        "title": "How to Manipulate Strings in JavaScript \u2013 With Code Examples",
+        "tag": "#JavaScript",
+        "time": "10 days ago"
+    },
+    "18": {
+        "links": "/news/build-crud-operations-with-dotnet-core-handbook/",
+        "title": "How to Build CRUD Operations with .NET Core \u2013 A Todo API Handbook",
+        "tag": "#.net core",
+        "time": "11 days ago"
+    },
+    "19": {
+        "links": "/news/open-source-is-changing-the-changelog-host-jerod-santo-on-how-to-keep-up-podcast-125/",
+        "title": "Open Source is Changing. The Changelog Host Jerod Santo on How to Keep Up [Podcast #125]",
+        "tag": "#podcast",
+        "time": "11 days ago"
+    },
+    "20": {
+        "links": "/news/minimum-viable-product-between-an-idea-and-the-product/",
+        "title": "How to Build an MVP for Your Project \u2013 and Why You Should Do It",
+        "tag": "#MVP",
+        "time": "11 days ago"
+    },
+    "21": {
+        "links": "/news/choose-a-tech-stack-for-your-saas-product/",
+        "title": "How to Choose a Tech Stack for Your SaaS Product \u2013 Lessons from a Developer",
+        "tag": "#Career Advice",
+        "time": "11 days ago"
+    },
+    "22": {
+        "links": "/news/how-to-partition-queues-for-distributed-workloads/",
+        "title": "How to Partition Queues for Distributed Workloads",
+        "tag": "#Queue",
+        "time": "12 days ago"
+    },
+    "23": {
+        "links": "/news/pass-the-aws-certified-solutions-architect-associate-certification/",
+        "title": "Pass the AWS Certified Solutions Architect - Associate Certification",
+        "tag": "#AWS",
+        "time": "12 days ago"
+    },
+    "24": {
+        "links": "/news/how-to-secure-your-django-app/",
+        "title": "How to Secure Your Django App \u2013 Best Practices and Code Examples",
+        "tag": "#Django",
+        "time": "13 days ago"
+    },
+    "25": {
+        "links": "/news/js-interview-prep-handbook/",
+        "title": "The JavaScript Interview Prep Handbook \u2013 Essential Topics to Know + Code Examples",
+        "tag": "#JavaScript",
+        "time": "13 days ago"
+    }
+}

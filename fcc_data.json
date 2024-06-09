@@ -1,4 +1,4 @@
-[
+{
     "1": {
         "links": "/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/",
         "title": "How to Build a Rating Component with the React Compound Component Pattern",
@@ -149,4 +149,4 @@
         "tag": "#JavaScript",
         "time": "13 days ago"
     }
-]
+}
